@@ -1,4 +1,4 @@
-<img src="./media/banner.png">
+<img src="./media/banner.jpg">
 <h1 align="center">Hi, thanks for visiting my profile 👋</h1>
 <p align="center"></p>
 
