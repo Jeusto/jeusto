@@ -1,5 +1,5 @@
 <img src="./media/banner.jpg">
-<h1 align="center">Hi, thanks for visiting my profile 👋</h1>
+<h1 align="center">Hi, thanks for visiting my profile!</h1>
 <p align="center"></p>
 
 <p>I'm Arhun Saday, also known as Jeusto. I've been close to a computer since an early age and been passionate about it since then. <br/> </p>
